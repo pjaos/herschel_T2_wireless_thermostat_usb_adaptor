@@ -3,7 +3,7 @@ I have some [Herschel](https://www.herschel-infrared.co.uk/) infra red heat pane
 these thermostats from USB power. This project provides this functionality.
 
 # Design
-I chose to create a unit that plugged into the rear of the T2 thermostat battery compartment. This required the design of the 3D printed case to clip into the space where the batteries sit as shown below. I chose to use a panel mounted USB C connector and a DC-DC converter module to convert the 5V DC USB power to 3.3V to power the thermostat.
+I chose to create a unit that plugged into the rear of the T2 thermostat battery compartment. This required the design of the 3D printed case to clip into the space where the batteries sit as shown below. I chose to use a panel mounted USB C connector and a DC-DC converter module to convert the 5V DC USB power to ~ 3V to power the thermostat.
 
 # T2 Thermostat
 
