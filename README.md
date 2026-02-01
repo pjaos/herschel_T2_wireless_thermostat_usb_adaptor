@@ -1,5 +1,6 @@
 # Herschell Heat Panel Thermostat USB Power.
-I have some [Herschel](https://www.herschel-infrared.co.uk/) infra red heat panels in my house. These are controlled via [Herschel T2 thermostatss](https://www.herschel-infrared.co.uk/product/iq-t2-wireless-thermostat-pack/). These thermostats work well and are battery powered. As eventually the batteries run out I thought it would be useful to provide a way to run
+I have some [Herschel](https://www.herschel-infrared.co.uk/) infra red heat panels in my house. These are controlled via [Herschel T2 thermostats
+s](https://www.herschel-infrared.co.uk/product/iq-t2-wireless-thermostat-pack/). These thermostats work well and are battery powered. As eventually the batteries run out I thought it would be useful to provide a way to run
 these thermostats from USB power. This project provides this functionality.
 
 # Design
